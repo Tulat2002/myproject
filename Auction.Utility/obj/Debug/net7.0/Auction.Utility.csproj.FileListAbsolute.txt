@@ -1,0 +1,12 @@
+D:\csharp\Online_Auction\Auction.Utility\bin\Debug\net7.0\Auction.Utility.deps.json
+D:\csharp\Online_Auction\Auction.Utility\bin\Debug\net7.0\Auction.Utility.dll
+D:\csharp\Online_Auction\Auction.Utility\bin\Debug\net7.0\Auction.Utility.pdb
+D:\csharp\Online_Auction\Auction.Utility\obj\Debug\net7.0\Auction.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\Online_Auction\Auction.Utility\obj\Debug\net7.0\Auction.Utility.AssemblyInfoInputs.cache
+D:\csharp\Online_Auction\Auction.Utility\obj\Debug\net7.0\Auction.Utility.AssemblyInfo.cs
+D:\csharp\Online_Auction\Auction.Utility\obj\Debug\net7.0\Auction.Utility.csproj.CoreCompileInputs.cache
+D:\csharp\Online_Auction\Auction.Utility\obj\Debug\net7.0\Auction.Utility.dll
+D:\csharp\Online_Auction\Auction.Utility\obj\Debug\net7.0\refint\Auction.Utility.dll
+D:\csharp\Online_Auction\Auction.Utility\obj\Debug\net7.0\Auction.Utility.pdb
+D:\csharp\Online_Auction\Auction.Utility\obj\Debug\net7.0\ref\Auction.Utility.dll
+D:\csharp\Online_Auction\Auction.Utility\obj\Debug\net7.0\Auction.Utility.csproj.AssemblyReference.cache
